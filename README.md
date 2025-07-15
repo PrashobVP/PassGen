@@ -18,7 +18,8 @@
 
 ## Screenshots
 
-*(Add screenshots here if available)*
+<img width="683" height="825" alt="image" src="https://github.com/user-attachments/assets/56ca66f1-b966-485e-9185-cc7210f94efc" />
+
 
 ---
 
