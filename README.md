@@ -38,16 +38,13 @@
 
 2.Navigate to the project folder:
 
-bash
-Copy
-Edit
+
 cd passGen
 
 3.Run the application:
 
-bash
-Copy
-Edit
+Download PassGenV1.exe
+    or
 python password_generator.py
 
 
